@@ -6,8 +6,8 @@ Um portfólio moderno e interativo desenvolvido para apresentar minhas habilidad
 
 ## 🌐 Preview
 
-> 💡 Em breve disponível online  
-*(adicione aqui o link quando fizer deploy no Vercel/Netlify)*
+> 💡disponível online = 
+*https://lucio-h.github.io/Sobre-mim/*
 
 ---
 
